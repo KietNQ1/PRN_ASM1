@@ -13,7 +13,7 @@ This is a hotel management system built with .NET 6 and WPF, using Entity Framew
 The application uses Entity Framework Core Code First approach to create and manage the database. The database will be automatically created when you run the application for the first time.
 
 1. Make sure you have SQL Server 2022 installed and running.
-2. Check the connection string in `appsettings.json` files (located in both BusinessObjects and NguyenHuanWPF projects) and update if necessary.
+2. Check the connection string in `appsettings.json` files (located in both BusinessObjects and QuangKietWPF projects) and update if necessary.
 3. The default connection string is: `Server=.;Database=HotelManagementDB;Trusted_Connection=True;TrustServerCertificate=True;`
 
 ## Running the Application
