@@ -18,8 +18,8 @@ The application uses Entity Framework Core Code First approach to create and man
 
 ## Running the Application
 
-1. Open the solution file `NguyenHuan_SE18D01_A01.sln` in Visual Studio.
-2. Set the `NguyenHuanWPF` project as the startup project.
+1. Open the solution file `QuangKiet_SE18D07_A01.sln` in Visual Studio.
+2. Set the `QuangKietWPF` project as the startup project.
 3. Build the solution.
 4. Run the application.
 
@@ -51,7 +51,7 @@ The application is seeded with the following user accounts:
 - **DataAccessObjects**: Contains the data access layer
 - **Repositories**: Contains the repository interfaces
 - **Services**: Contains the business logic
-- **NguyenHuanWPF**: Contains the WPF application UI
+- **QuangKietWPF**: Contains the WPF application UI
 
 ## How to run
 
